@@ -6,7 +6,7 @@ chardet==3.0.4
 Django==1.8
 django-oauth-toolkit==1.0.0
 djangorestframework==3.7.1
-ecdsa==0.13
+ecdsa==0.13.3
 et-xmlfile==1.0.1
 future==0.16.0
 gyp==0.1
